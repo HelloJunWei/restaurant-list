@@ -2,9 +2,9 @@
   "name": "restaurant-list",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test":" npx playwright test"
+    "test": " npx playwright test"
   },
   "author": "Neil",
   "license": "ISC",
