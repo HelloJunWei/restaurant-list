@@ -3,17 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/HelloJunWei/restaurant-list.git"
+  "scripts": {
+    "test":" npx playwright test"
   },
   "author": "Neil",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/HelloJunWei/restaurant-list/issues"
-  },
-  "homepage": "https://github.com/HelloJunWei/restaurant-list#readme",
   "devDependencies": {
     "@playwright/test": "^1.30.0"
   }
